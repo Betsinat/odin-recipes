@@ -25,32 +25,6 @@ Breakfast: Pancakes, Waffles, Fried Eggs
 Lunch: Burgers, Sandwiches, Salads
 Dinner: Cabbage Rolls, Soup, Steak
 
-File Structure
-
-odin-recipe-project/
-│
-├─ index.html
-
-├─ images/
-
-│   └─ recipe images (egg1.jpg, pancake1.jpg, etc.)
-├─ Breakfast/
-
-│   ├─ breakfast.html
-│   ├─ pancake.html
-│   ├─ waffels.html
-│   └─ egg.html
-├─ Lunch/
-│   ├─ lunch.html
-│   ├─ burger.html
-│   ├─ sandwich.html
-│   └─ salad.html
-└─ Dinner/
-    ├─ dinner.html
-    ├─ cabbagerolls.html
-    ├─ soup.html
-    └─ steak.html
-
 Author
 
 [Betsinat wendwesen] – A beginner web developer exploring HTML and building simple, organized projects.
