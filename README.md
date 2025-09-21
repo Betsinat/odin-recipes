@@ -30,9 +30,12 @@ File Structure
 odin-recipe-project/
 │
 ├─ index.html
+
 ├─ images/
+
 │   └─ recipe images (egg1.jpg, pancake1.jpg, etc.)
 ├─ Breakfast/
+
 │   ├─ breakfast.html
 │   ├─ pancake.html
 │   ├─ waffels.html
