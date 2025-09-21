@@ -26,6 +26,7 @@ Lunch: Burgers, Sandwiches, Salads
 Dinner: Cabbage Rolls, Soup, Steak
 
 File Structure
+
 odin-recipe-project/
 │
 ├─ index.html
