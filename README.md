@@ -22,7 +22,9 @@ Clean and organized layout for easy reading.
 Recipes Included
 
 Breakfast: Pancakes, Waffles, Fried Eggs
+
 Lunch: Burgers, Sandwiches, Salads
+
 Dinner: Cabbage Rolls, Soup, Steak
 
 Author
